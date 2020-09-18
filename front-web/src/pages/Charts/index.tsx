@@ -10,7 +10,7 @@ import {
   getGenderChartData,
 } from './helpers';
 
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = 'https://sds1-leojunior.herokuapp.com';
 
 type PieChartData = {
   labels: string[];
